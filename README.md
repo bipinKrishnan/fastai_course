@@ -12,4 +12,9 @@
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/multilabel_fastai.ipynb)
  
+ 4. [pet_breed_multiclass](https://github.com/bipinKrishnan/fastai_course/blob/master/pet_breed_multiclass.ipynb) - Made a multi-label classifier using Fastai using pretrained Resnet18 model 
+ 
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/pet_breed_multiclass.ipynb)
+ 
+ 
    
