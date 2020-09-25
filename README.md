@@ -23,5 +23,13 @@
 6. [computer_vision_techniques](https://github.com/bipinKrishnan/fastai_course/blob/master/computer_vision_techniques.ipynb) - Techniques for improving the accuracy of computer vision models
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/computer_vision_techniques.ipynb)
+   
+7. [cyclicLR_scratch](https://github.com/bipinKrishnan/fastai_course/blob/master/cyclicLR_scratch.ipynb) - Implemented the cyclic learning rate for training neural networks as discussed in the paper [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186) (from scratch)
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/cyclicLR_scratch.ipynb)
+   
+8. [cyclicLR_pytorch](https://github.com/bipinKrishnan/fastai_course/blob/master/cyclicLR_pytorch.ipynb) - Trained a model using the cyclic learning rate scheduler present in the PyTorch library
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/cyclicLR_pytorch.ipynb)
  
    
