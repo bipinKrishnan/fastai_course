@@ -31,5 +31,11 @@
 8. [cyclicLR_pytorch](https://github.com/bipinKrishnan/fastai_course/blob/master/cyclicLR_pytorch.ipynb) - Trained a model using the cyclic learning rate scheduler present in the PyTorch library
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/cyclicLR_pytorch.ipynb)
+   
+9. [fastai_collab](https://github.com/bipinKrishnan/fastai_course/blob/master/fastai_collab.ipynb) - Collaborative filtering for movie recommendation using fastai
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/fastai_collab.ipynb)
+   
+  
  
    
