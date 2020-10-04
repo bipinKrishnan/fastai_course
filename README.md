@@ -32,7 +32,7 @@
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/cyclicLR_pytorch.ipynb)
    
-9. [fastai_collab](https://github.com/bipinKrishnan/fastai_course/blob/master/fastai_collab.ipynb) - Collaborative filtering for movie recommendation using fastai and PyTorch
+9. [fastai_collab](https://github.com/bipinKrishnan/fastai_course/blob/master/fastai_collab.ipynb) - Collaborative filtering for movie recommendation using Fastai and PyTorch
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/fastai_collab.ipynb)
    
