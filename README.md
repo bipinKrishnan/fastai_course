@@ -41,9 +41,9 @@
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/NLP_1.ipynb)
     
  ## Binder
-    If you wish to experiment with every notebooks, Launch Binder 
+   If you wish to experiment with every notebooks, Launch Binder 
    
-     [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master)
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master)
    
   
  
