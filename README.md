@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master)
+
 # fastai_course
 
 1. [bear_classifier](https://github.com/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb) - Classification on a custom data set using Fastai
