@@ -38,7 +38,7 @@
    
 10. [NLP_1](https://github.com/bipinKrishnan/fastai_course/blob/master/NLP_1.ipynb) - Provides a high level overview of different tokenization approaches and also introduces to ULMFIT(Ultimate Language Model Fine-tuning) technique for transfer learning in NLP
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/NLP_1.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/NLP_1.ipynb)
    
   
  
