@@ -1,7 +1,3 @@
-   If you wish to experiment with every notebooks, Launch Binder 
-   
-   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master)
-
 # fastai_course
 
 1. [bear_classifier](https://github.com/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb) - Classification on a custom data set using Fastai
@@ -43,6 +39,11 @@
 10. [NLP_1](https://github.com/bipinKrishnan/fastai_course/blob/master/NLP_1.ipynb) - Provides a high level overview of different tokenization approaches and also introduces to ULMFIT(Universal Language Model FIne-Tuning) technique for transfer learning in NLP
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/NLP_1.ipynb)
+    
+ ## Binder
+    If you wish to experiment with every notebooks, Launch Binder 
+   
+     [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master)
    
   
  
