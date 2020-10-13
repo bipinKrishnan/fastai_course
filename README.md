@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master)
+   If you wish to experiment with every notebooks, launch binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bipinKrishnan/fastai_course/master)
 
 # fastai_course
 
