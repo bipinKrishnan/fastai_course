@@ -2,6 +2,7 @@
 
 My code implementations for the book [Deep Learning for Coders with fastai and PyTorch](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
 
+
 1. [bear_classifier](https://github.com/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb) - Classification on a custom data set using Fastai
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb)     
