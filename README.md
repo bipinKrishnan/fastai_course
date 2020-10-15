@@ -1,5 +1,3 @@
-# fastai_course
-
 My code implementations for the book [Deep Learning for Coders with fastai and PyTorch](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
 
 -----------------------------------------------------------
