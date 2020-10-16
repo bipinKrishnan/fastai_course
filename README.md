@@ -45,6 +45,7 @@ My code implementations for the book [Deep Learning for Coders with fastai and P
  11. [text_preprocessing](https://github.com/bipinKrishnan/fastai_course/blob/master/text_preprocessing.ipynb) - Notebook discussing the necessary steps for preprocessing text data(converting text to numbers)
  
      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/text_preprocessing.ipynb)
+     -----------------------------------------------------------------------
     
  ## :information_source: Binder
    If you wish to experiment with every notebook in this repo, Launch Binder 
