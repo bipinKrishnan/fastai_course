@@ -45,6 +45,10 @@ My code implementations for the book [Deep Learning for Coders with fastai and P
  11. [text_preprocessing](https://github.com/bipinKrishnan/fastai_course/blob/master/text_preprocessing.ipynb) - Notebook discussing the necessary steps for preprocessing text data(converting text to numbers)
  
      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/text_preprocessing.ipynb)
+     
+ 12. [RNN_fastai_pytorch](https://github.com/bipinKrishnan/fastai_course/blob/master/RNN_fastai_pytorch.ipynb) - Building an RNN(Recurrent Neural Network) from scratch
+ 
+     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/RNN_fastai_pytorch.ipynb)
 -----------------------------------------------------------------------
     
  ## :information_source: Binder
