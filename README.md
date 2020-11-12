@@ -50,7 +50,7 @@ My code implementations for the book [Deep Learning for Coders with fastai and P
  
      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/RNN_fastai_pytorch.ipynb)
      
- 13. [text_spacy_nltk](https://github.com/bipinKrishnan/fastai_course/blob/master/text_spacy_nltk.ipynb) - Text preprocessing techniques like tokenization,  and lemmatization, parts of speech tagging and visualizayion using spacy and NLTK
+ 13. [text_spacy_nltk](https://github.com/bipinKrishnan/fastai_course/blob/master/text_spacy_nltk.ipynb) - Text preprocessing techniques like tokenization, lemmatization, parts of speech tagging, named entity recognition and visualizing them using spacy 
  
      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/text_spacy_nltk.ipynb)
      
