@@ -42,7 +42,7 @@ My code implementations for the book [Deep Learning for Coders with fastai and P
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/NLP_1.ipynb)
     
- 11. [text_preprocessing](https://github.com/bipinKrishnan/fastai_course/blob/master/text_preprocessing.ipynb) - Notebook discussing the necessary steps for preprocessing text data(converting text to numbers)
+ 11. [text_preprocessing](https://github.com/bipinKrishnan/fastai_course/blob/master/text_preprocessing.ipynb) - Text preprocessing techniques like tokenization, stemming and lemmatization using spacy and NLTK
  
      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/text_preprocessing.ipynb)
      
@@ -50,9 +50,11 @@ My code implementations for the book [Deep Learning for Coders with fastai and P
  
      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/RNN_fastai_pytorch.ipynb)
      
- 13. [text_preprocessing](https://github.com/bipinKrishnan/fastai_course/blob/master/text_preprocessing.ipynb) - Text preprocessing techniques like tokenization, stemming and lemmatization using spzy and NLTK
+ 13. [text_spacy_nltk](https://github.com/bipinKrishnan/fastai_course/blob/master/text_spacy_nltk.ipynb) - Text preprocessing techniques like tokenization,  and lemmatization, parts of speech tagging and visualizayion using spacy and NLTK
  
-     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/text_preprocessing.ipynb)
+     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/text_spacy_nltk.ipynb)
+     
+ 
 -----------------------------------------------------------------------
     
  ## :information_source: Binder
